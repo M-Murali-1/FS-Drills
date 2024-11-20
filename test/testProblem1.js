@@ -38,9 +38,7 @@ function createDeleteFiles(callback) {
                     else {
                         console.log("Test Folder deleted..!");
                     }
-
                 })
-
             }
         })
     }
